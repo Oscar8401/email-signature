@@ -11,7 +11,7 @@
 import { Header } from './components/index'
 export default {
 	components: {
-			appHeader:Header
+		appHeader:Header
 	},
 };
 </script>
