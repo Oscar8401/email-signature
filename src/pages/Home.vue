@@ -173,7 +173,6 @@ export default {
   },
   methods: {
     changeVerion: function (version) {
-      console.log(version);
       this.config.version = version;
     },
   }
