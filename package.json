@@ -1,7 +1,7 @@
 {
   "name": "email-signature",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "Email Signature Generator for Adapter Digital Agency",
   "author": "Surasak Prommarat <surasak@adapterdigital.com>",
   "private": true,
   "scripts": {
