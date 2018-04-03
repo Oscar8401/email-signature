@@ -17,6 +17,7 @@
 import FontAwesomeIcon from '@fortawesome/vue-fontawesome'
 import { faHeart } from '@fortawesome/fontawesome-free-solid'
 import { Header } from './components/index'
+
 export default {
 	computed: {
 		icon () {

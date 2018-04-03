@@ -74,6 +74,7 @@
 
 <script>
 import { Horizontal, Vertical } from '../components/index'
+
 export default {
   name: 'home',
   components: {
