@@ -60,10 +60,10 @@
             </div>
           </div>
           <div v-show="config.version == 1" style="height: 350px; padding: 80px 40px;">
-           <signature-horizontal :fields=fields />
+            <signature-vertical :fields=fields />
           </div>
           <div v-show="config.version == 2" style="height: 350px; padding: 80px 40px;">
-            <signature-vertical :fields=fields />
+            <signature-horizontal :fields=fields />
           </div>
         </div>
       </div>
